@@ -11,10 +11,15 @@
   "dependencies": {
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
+    "@mui/icons-material": "^5.8.4",
     "@mui/material": "latest",
+    "axios": "^0.27.2",
+    "isbnjs": "^0.2.2",
     "react": "latest",
     "react-dom": "latest",
-    "react-scripts": "latest"
+    "react-file-base64": "^1.0.3",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1"
   },
   "browserslist": {
     "production": [
